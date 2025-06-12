@@ -1,4 +1,6 @@
-# Pedal Pulse - BlueBikes Demand Prediction
+# Pedal Pulse 
+<img width="724" alt="Screenshot 2025-06-12 at 6 24 55 PM" src="https://github.com/user-attachments/assets/113e1c91-1495-4f5b-9de5-665f0bba822e" />
+- BlueBikes Demand Prediction
 
 This project aims to predict the demand for BlueBikes using historical data and station information. The goal is to deploy an MLOps pipeline that automates data ingestion, model training, deployment, and retraining. 
 
